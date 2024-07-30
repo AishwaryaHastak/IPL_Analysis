@@ -13,12 +13,19 @@ The insights gained from this analysis are expected to be valuable for developin
 
 
 # 💻 Technical Tools Used:
+
 🔹 **ETL Processes**: Extract, Transform, Load methodologies
+
 🔹 **Transformation Functions**: select, filter, groupBy, withColumn, selectExpr.
+
 🔹 **Aggregation Functions**: count, sum, avg, and more.
+
 🔹 **Pivot Tables** 
+
 🔹 **Window Functions**: Functions such as rank(), dense_rank(), and lag()
+
 🔹 **Visualization libraries**: matplotlib, seaborn 
+
 🔹 **MLflow**: Used for hyperparameter tuning and managing machine learning experiments
 
 # 🎯 Key Objectives:
@@ -47,4 +54,9 @@ The insights gained from this analysis are expected to be valuable for developin
 
 🔹Top IPL Bowlers: Total Wickets and Average Wickets Per Match:
   Lasith Malinga and Jasprit Bumrah are standout bowlers with the highest average wickets per match, each taking approximately 2 wickets per game.
+
+🔹Patterns in Dismissal Types and Match Situations:
+  - "Caught" is the most common dismissal type, especially in league matches.
+  - "Run out" dismissals occur later in high-stakes matches like finals and eliminators, reflecting increased risk-taking in crucial moments.
+  - Early wickets in qualifiers and finals are often due to "bowled" and "LBW" dismissals, highlighting effective bowling strategies in key games.
 
