@@ -1,7 +1,9 @@
 # IPL_Analysis
+
 Analyzing IPL (Indian Premier League) data and building a predictive model using PySpark and Python.
----
+
 For a detailed walkthrough of the PySpark EDA process and results, check out this article: 
+
 ---
 # Introduction
 
