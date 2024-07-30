@@ -58,7 +58,10 @@ The insights gained from this analysis are expected to be valuable for developin
   Lasith Malinga and Jasprit Bumrah are standout bowlers with the highest average wickets per match, each taking approximately 2 wickets per game.
 
 🔹Patterns in Dismissal Types and Match Situations:
+
     🔸 "Caught" is the most common dismissal type, especially in league matches.
+    
     🔸"Run out" dismissals occur later in high-stakes matches like finals and eliminators, reflecting increased risk-taking in crucial moments.
+    
     🔸 Early wickets in qualifiers and finals are often due to "bowled" and "LBW" dismissals, highlighting effective bowling strategies in key games.
 
