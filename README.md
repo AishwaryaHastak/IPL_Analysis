@@ -1,4 +1,4 @@
-# IPL_Analysis
+# Analysis of IPL Data using PySpark
 
 Analyzing IPL (Indian Premier League) data and building a predictive model using PySpark and Python, cleaning and preprocessing the data, performing feature engineering, and developing a machine learning pipeline. This project aims to uncover performance patterns and provide valuable insights for team management and player selection. The model's accuracy is optimized using MLflow for hyperparameter tuning.
 
