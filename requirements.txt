@@ -1,5 +1,6 @@
 ipykernel
 matplotlib
 numpy
-pyspark
 pandas
+pyspark 
+seaborn
